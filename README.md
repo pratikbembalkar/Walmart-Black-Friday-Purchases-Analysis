@@ -1,5 +1,5 @@
 # Walmart-Black-Friday-Purchases-Analysis
-Analyzing Walmart’s Black Friday sales data to uncover gender-based spending patterns and key customer insights for business decision-making.
+Project Overview
 
 This project is a data science analysis based on a take-home assignment for a data science position at Walmart. The goal is to analyze customer purchase behavior during Walmart’s Black Friday sales, with a focus on understanding gender-based spending patterns. Specifically, the analysis aims to determine whether women spend more than men during Black Friday sales, while also considering other demographic factors such as age, occupation, and city category.
 
